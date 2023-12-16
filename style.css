@@ -1,0 +1,92 @@
+/* * {
+  outline: 3px solid;
+} */
+body {
+  font-family: "calibri", "arial", sans-serif;
+  font-size: 20px;
+  background-color: rgb(246, 246, 242);
+  text-align: left;
+}
+h1 {
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+h2 {
+  font-size: 35px;
+}
+header h2 {
+  font-weight: normal;
+}
+h3 {
+  font-size: 25px;
+}
+.references h3 {
+  font-size: 20px;
+  font-weight: normal;
+}
+h4 {
+  font-size: 20px;
+}
+ul {
+  padding-left: 20px;
+}
+.contacts {
+  font-size: 25px;
+}
+.contacts p {
+  margin: 3px 0;
+}
+a {
+  color: rgb(75, 75, 75);
+  text-decoration: none;
+}
+.mail {
+  margin-left: 40px;
+}
+main {
+  display: flex;
+}
+
+header {
+  height: 450px;
+  padding: 50px 0 0 60px;
+  background-color: aquamarine;
+}
+.head-part-1 {
+  padding-bottom: 130px;
+}
+.side-info {
+  padding-left: 60px;
+}
+.side-text {
+  background-color: aquamarine;
+}
+.side-text img {
+  height: 500px;
+  border-radius: 250px;
+}
+.pic {
+  background-color: rgb(87, 173, 145);
+  border: 0px;
+  box-sizing: border-box;
+  height: 500px;
+}
+.birth h3 {
+  margin-top: 0;
+  padding-top: 30px;
+}
+.content {
+  padding-left: 60px;
+}
+.profile {
+  padding-right: 50px;
+}
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 5px 8px;
+  border: 1px solid #b2b1b1;
+}
